@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silverzaju
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, NodeJS and Python
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, NodeJS, React and Python
 - 💞️ I’m looking to collaborate on some projects in the future
 - 📫 How to reach me:
 - Email: tr.ahmettasci@gmail.com
