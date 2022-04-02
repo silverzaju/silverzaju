@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on some projects in the future
 - 📫 How to reach me:
 - Email: tr.ahmettasci@gmail.com
-- LinkedIN: www.linkedin.com/in/ahmet-taşcı-7a485125
+- LinkedIN: https://www.linkedin.com/in/ahmet-ta%C5%9Fc%C4%B1-7a485125/
+- Twitter: https://twitter.com/nowweuse
 
 <!---
 silverzaju/silverzaju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
